@@ -10,7 +10,7 @@ Aplicação desenvolvida durante a Imersão React da Alura.
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). [React](https://pt-br.reactjs.org/), [Yarn](https://classic.yarnpkg.com/en/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). [React](https://pt-br.reactjs.org/) e [Yarn](https://classic.yarnpkg.com/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando a Aplicação
